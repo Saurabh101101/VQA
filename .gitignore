@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.pth
+.DS_Store
+.env
+.vscode/
+*.ipynb_checkpoints
+logs/
+data/
+output/
+# Ignore virtual environment
+vqa_env/

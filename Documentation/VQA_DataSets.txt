@@ -1,0 +1,2 @@
+VQA V2.0 : https://visualqa.org/download.html
+Visual Genome : https://homes.cs.washington.edu/~ranjay/visualgenome/api.html
